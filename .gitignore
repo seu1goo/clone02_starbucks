@@ -1,0 +1,8 @@
+##확장자
+*.text
+*.txt
+*.exe
+*.zip
+
+##폴더
+source/
